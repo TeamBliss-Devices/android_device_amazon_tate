@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_device_amazon_bowser-common",
+    "target_path": "device/amazon/bowser-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_device_amazon_omap4-common-1",
+    "target_path": "device/amazon/omap4-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_kernel_amazon_bowser-common",
+    "target_path": "kernel/amazon/bowser-common",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_amazon",
+    "target_path": "vendor/amazon",
+    "revision": "cm-12.1"
+  }
+]
